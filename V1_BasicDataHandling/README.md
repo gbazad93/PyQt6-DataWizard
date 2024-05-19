@@ -1,4 +1,3 @@
-```markdown
 # Version 1: Basic Data Handling
 
 ## Overview
@@ -12,3 +11,4 @@ This initial version introduces the basics of PyQt6 by loading data from the cur
 ## How to Run
 ```bash
 python basic_data_handling.py
+```
