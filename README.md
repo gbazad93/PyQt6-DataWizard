@@ -11,3 +11,11 @@ pip install pyqt6
 pip install pandas
 pip install matplotlib
 pip install scikit-learn  # For machine learning integration
+
+## Screenshots
+
+Below are screenshots from each version of the project, giving you a glimpse into the progression and features added at each step.
+
+### Version 1: Basic Data Handling
+![Version 1 Screenshot](Screenshots/Screenshot_V1.png)
+*Basic data loading and exporting to CSV.*
