@@ -11,12 +11,10 @@ pip install pyqt6
 pip install pandas
 pip install matplotlib
 pip install scikit-learn  # For machine learning integration
-
+```
 ## Screenshots
 
 Below are screenshots from each version of the project, giving you a glimpse into the progression and features added at each step.
 
-```markdown
-<a href="V1_BasicDataHandling"><img src="Screenshots/v1.png" alt="Basic Data Handling" width=200px></a>
-<a href="V1_BasicDataHandling"><img src="https://github.com/gbazad93/PyQt6-DataWizard/blob/main/Screenshots/v1.png" alt="Basic Data Handling" width="200px"></a>
+<a href="V1_BasicDataHandling"><img src="Screenshots/v1.png" alt="Basic Data Handling" width=400></a>
 
