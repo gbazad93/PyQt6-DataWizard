@@ -16,6 +16,39 @@ pip install scikit-learn  # For machine learning integration
 
 Below are screenshots from each version of the project, giving you a glimpse into the progression and features added at each step.
 
-### Version 1: Basic Data Handling
-![Version 1 Screenshot](https://github.com/gbazad93/PyQt6-DataWizard/blob/main/Screenshots/Screenshot_V1.png?raw=true)
-*Basic data loading and exporting to CSV.*
+<table>
+  <tr>
+    <td align="center">
+      <a href="Screenshots/Screenshot_V1.png">
+        <img src="Screenshots/Screenshot_V1.png" alt="Version 1 Screenshot" width="300px">
+      </a>
+      <br>
+      Version 1: Basic Data Handling
+    </td>
+    <td align="center">
+      <a href="Screenshots/Screenshot_V2.png">
+        <img src="Screenshots/Screenshot_V2.png" alt="Version 2 Screenshot" width="300px">
+      </a>
+      <br>
+      Version 2: Data Visualization
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Screenshots/Screenshot_V3.png">
+        <img src="Screenshots/Screenshot_V3.png" alt="Version 3 Screenshot" width="300px">
+      </a>
+      <br>
+      Version 3: Machine Learning Integration
+    </td>
+    <!-- Placeholder for next version -->
+    <td align="center">
+      <a href="Screenshots/Screenshot_V4.png">
+        <img src="Screenshots/Screenshot_V4.png" alt="Version 4 Screenshot" width="300px">
+      </a>
+      <br>
+      Version 4: [Description of Version 4]
+    </td>
+  </tr>
+</table>
+
