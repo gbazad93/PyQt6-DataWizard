@@ -12,7 +12,7 @@ import pandas as pd
 import csv
 
 
-class Ui_MainWindow:
+class MainWindow:
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(1080, 848)
@@ -79,7 +79,7 @@ class Ui_MainWindow:
 class ApplicationWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
-        self.ui = Ui_MainWindow()
+        self.ui = MainWindow()
         self.ui.setupUi(self)
         self.read_csv_and_populate_table('data.csv')
         self.style_table()
