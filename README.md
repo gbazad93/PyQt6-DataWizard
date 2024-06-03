@@ -12,6 +12,21 @@ pip install pandas
 pip install matplotlib
 pip install scikit-learn  # For machine learning integration
 ```
+
+## Repository Structure
+
+This repository is organized into several folders, each representing a different version of the application to demonstrate the progressive complexity of using PyQt6:
+
+- **Versioned Folders**:
+  - `V1_BasicDataHandling`: This folder contains examples and utilities for basic data handling functionalities, including reading and writing CSV files.
+  - `V2_DataVisualization`: Dedicated to showcasing how to visualize data using PyQt6, integrating various charting libraries.
+  - More folders will follow as the application evolves to include more advanced features and integrations.
+
+- **Tests Folder**: Contains unit tests for the project's various components, highlighting the importance of testing in ensuring that each part of the application functions as expected, thus maintaining robustness and reliability.
+
+- **Screenshots**: Visual previews of each version are provided to give insights into the features developed in each stage of the project.
+
+
 ## Screenshots
 
 Below are screenshots from each version of the project, giving you a glimpse into the progression and features added at each step.
