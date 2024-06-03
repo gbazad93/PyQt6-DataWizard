@@ -15,3 +15,19 @@ We use `pytest` for running unit tests due to its simplicity and powerful featur
 
 ```bash
 pip install pytest
+```
+
+Bellow you can see the resulted output of unnit test for V1
+```bash
+platform win32 -- Python 3.11.7, pytest-7.4.0, pluggy-1.5.0
+PyQt6 6.7.0 -- Qt runtime 6.7.0 -- Qt compiled 6.7.0
+rootdir: C:\Users\Bobby\Desktop\PyQt6 Prj
+plugins: anyio-4.2.0, qt-4.4.0
+collected 3 items
+
+test_V1_basicDataHandling.py ...                                                                                 [100%]
+
+================================================== 3 passed in 2.35s ==================================================
+```
+
+
