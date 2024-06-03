@@ -17,4 +17,5 @@ pip install scikit-learn  # For machine learning integration
 Below are screenshots from each version of the project, giving you a glimpse into the progression and features added at each step.
 
 <a href="V1_BasicDataHandling"><img src="Screenshots/v1.png" alt="Basic Data Handling" width=400></a>
+<a href="V2_DataVisualization"><img src="Screenshots/v2.png" alt="Data Visualization" width=400></a>
 
