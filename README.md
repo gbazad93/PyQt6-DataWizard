@@ -62,5 +62,13 @@ Below are screenshots from each version of the project, giving you a glimpse int
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"> <!-- This cell spans both columns -->
+      <a href="V5_MachineLearning">
+        <img src="Screenshots/v5.png" alt="Machine Learning" width="800"><br>
+        Machine Learning
+      </a>
+    </td>
+  </tr>
 </table>
 
