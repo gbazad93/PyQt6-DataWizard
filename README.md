@@ -20,7 +20,7 @@ This repository is organized into several folders, each representing a different
 - **Versioned Folders**:
   - `V1_BasicDataHandling`: This folder contains examples and utilities for basic data handling functionalities, including reading and writing CSV files.
   - `V2_DataVisualization`: Dedicated to showcasing how to visualize data using PyQt6, integrating various charting libraries.
-  - `V3_MenuToolbarIntegration: Focuses on enhancing the user interface with advanced menus and toolbars, and integrating icons from the graphics folder to improve navigation and aesthetics.
+  - `V3_MenuToolbarIntegration`: Focuses on enhancing the user interface with advanced menus and toolbars, and integrating icons from the graphics folder to improve navigation and aesthetics.
   - `V4_DataValidation`: This version introduces data validation capabilities within the application. It utilizes `QStyledItemDelegate` to ensure that input fields within tables accept only numeric values.
   - `V5_MachineLearning`: Expands the application's functionality by adding a machine learning module. This version includes a separate window that allows users to train and test Support Vector Regression models. 
   - More folders will follow as the application evolves to include more advanced features and integrations.
