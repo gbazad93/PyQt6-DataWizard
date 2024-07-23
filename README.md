@@ -72,5 +72,13 @@ Below are screenshots from each version of the project, giving you a glimpse int
       </a>
     </td>
   </tr>
+   <tr>
+    <td colspan="2" align="center"> <!-- This cell spans both columns -->
+      <a href="V6_MachineLearningTabs">
+        <img src="Screenshots/v6.png" alt="Multi-Tab Machine Learning (SVR, RN, DT, K-NN)" width="800"><br>
+        Multi-Tab Machine Learning (SVR, RN, DT, K-NN)
+      </a>
+    </td>
+  </tr>
 </table>
 
