@@ -83,3 +83,7 @@ Below are screenshots from each version of the project, giving you a glimpse int
   </tr>
 </table>
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gbazad93/PyQt6-DataWizard&type=Date)](https://star-history.com/#gbazad93/PyQt6-DataWizard&Date)
