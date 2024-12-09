@@ -3,6 +3,10 @@
 ## Introduction
 Welcome to PyQt6-DataWizard! This repository serves as a step-by-step guide to mastering PyQt6 through progressive examples, from basic data handling to advanced UI integrations with menus and toolbars, as well as machine learning integration. Each version builds upon the last, introducing new features and complexities in a structured manner. Whether you're a beginner looking to learn PyQt6 or a professional seeking to enhance your skills, these examples are crafted to provide practical insights into PyQt6 applications.
 
+## Why PyQt6-DataWizard?
+PyQt6-DataWizard stands out by offering a step-by-step progression in PyQt6 development, catering to both beginners and advanced users. It goes beyond basic tutorials by integrating real-world functionalities like machine learning, data validation, and customizable interfaces.
+
+
 ## Installation and Setup
 To get started, ensure you have Python 3.8 or higher installed. Install the following required packages to work with the examples in this repository:
 
