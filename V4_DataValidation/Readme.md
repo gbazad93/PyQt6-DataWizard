@@ -9,3 +9,14 @@ This version introduces:
 - **User Input Error Handling**: Provides immediate feedback for invalid entries in numeric columns, helping users correct data entry errors efficiently.
 
 
+
+
+## How to Run
+```bash
+python DataValidation.py
+```
+
+## Code Structure
+- `CustomDelegate` - Restricts column 2 to numeric input using QLineEdit
+- - `MainWindow` - UI definition with table and button widgets
+  - - `ApplicationWindow` - Main controller with CSV loading and validation support
