@@ -2,6 +2,7 @@
 Created on Sat May 4 2024
 
 @author: Bobby.Azad
+@description: V1 - Basic data handling using PyQt6 table widget with CSV import/export support.
 
 """
 
