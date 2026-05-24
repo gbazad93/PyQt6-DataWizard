@@ -2,6 +2,7 @@
 Created on Sat Jun 08 2024
 
 @author: Bobby.Azad
+@description: V4 - Adds QStyledItemDelegate to enforce numeric input in table cells.
 
 """
 
@@ -16,6 +17,7 @@ from PyQt6.QtWidgets import (QGraphicsScene, QGraphicsPixmapItem, QMessageBox,
 from PyQt6.QtCore import Qt
 
 
+    """Custom delegate that restricts specific table columns to numeric input only."""
 class CustomDelegate(QStyledItemDelegate):
     def __init__(self, parent=None):
         super().__init__(parent)
