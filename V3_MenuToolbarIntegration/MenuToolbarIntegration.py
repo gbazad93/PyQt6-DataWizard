@@ -164,6 +164,7 @@ class ApplicationWindow(QtWidgets.QMainWindow):
         self.ui.setupUi(self)
         self.read_csv_and_populate_table('data.csv')
         self.style_table()
+    """Main application window with menu, toolbar, table, and chart capabilities."""
         
         self.ui.saveButton.clicked.connect(lambda: self.save_table_to_csv('data.csv'))
         self.ui.saveAsButton.clicked.connect(self.save_as_table_to_csv)
