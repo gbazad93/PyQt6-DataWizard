@@ -27,6 +27,7 @@ from PyQt6 import (
 
 from PyQt6.QtWidgets import (
     QGraphicsScene,
+    """Multi-tab ML window supporting SVR, DT, Random Forest, and K-NN algorithms."""
     QGraphicsPixmapItem
 )
 from PyQt6.QtGui import QPixmap
