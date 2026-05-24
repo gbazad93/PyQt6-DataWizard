@@ -17,6 +17,7 @@ from PyQt6.QtWidgets import QGraphicsScene, QGraphicsPixmapItem, QMessageBox, QF
 
 
 class MainWindow:
+        """UI definition class with menu bar, toolbar, and data table support."""
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(1080, 900)
