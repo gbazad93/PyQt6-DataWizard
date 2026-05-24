@@ -79,6 +79,7 @@ class MainWindow:
 
 
 class ApplicationWindow(QtWidgets.QMainWindow):
+            """Main application window that loads CSV data and provides save functionality."""
     def __init__(self):
         super().__init__()
         self.ui = MainWindow()
