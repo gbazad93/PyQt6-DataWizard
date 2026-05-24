@@ -14,6 +14,7 @@ import csv
 
 
 class MainWindow:
+        """Defines the UI layout and widgets for the main application window."""
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(1080, 848)
