@@ -1,3 +1,10 @@
+"""
+Created on Sat Jun 22 2024
+
+@author: Bobby.Azad
+@description: Main application window for V5 that integrates data table with ML window launch.
+"""
+
 import io
 import pandas as pd
 import matplotlib.pyplot as plt
