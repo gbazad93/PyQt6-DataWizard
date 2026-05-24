@@ -91,7 +91,8 @@ class ApplicationWindow(QtWidgets.QMainWindow):
         self.ui.saveAsButton.clicked.connect(self.save_as_table_to_csv)
 
     def read_csv_and_populate_table(self, file_path):
-        # Read the CSV file to get headers (assuming the first row is headers)
+                    """Read a CSV file and populate the table widget with its contents."""
+                    
         with open(file_path, newline='', mode='r') as file:
             initial_data = pd.read_csv(file)
             headers = initial_data.columns.tolist()  # Capture header names
