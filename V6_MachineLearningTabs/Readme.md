@@ -28,3 +28,15 @@ In this version, we a tabbed interface integrated that allows users to perform d
   
 **Tab 3: Extra Model**
 - Custom Tab: An empty tab labeled "Extra Model" is included for additional use cases. Users can add their own machine learning models and components by editing the setup_tab3 method in the source code.
+
+- ## How to Run
+- ```bash
+  python MachineLearningTabs.py
+  ```
+
+  ## Dependencies
+  - PyQt6
+  - - pandas
+    - - scikit-learn (SVR, DecisionTreeRegressor, RandomForestRegressor, KNeighborsRegressor)
+      - - matplotlib
+        - - seaborn
