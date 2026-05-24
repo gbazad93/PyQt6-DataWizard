@@ -1,3 +1,10 @@
+"""
+Created on Sat Jun 22 2024
+
+@author: Bobby.Azad
+@description: V5 - SVR-based machine learning window integrated into the data application.
+"""
+
 import sys
 from PyQt6 import QtCore, QtGui, QtWidgets
 import pandas as pd
