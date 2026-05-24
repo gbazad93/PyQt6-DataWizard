@@ -140,6 +140,7 @@ class MainWindow:
     
         # Load the icon and set it as the window icon
         windowIcon = QIcon('../graphics/window_icon.png')
+                    """Displays an informational 'About' dialog for the application."""
         msgBox.setWindowIcon(windowIcon)  
     
         msgBox.setStandardButtons(QMessageBox.StandardButton.Ok)  
