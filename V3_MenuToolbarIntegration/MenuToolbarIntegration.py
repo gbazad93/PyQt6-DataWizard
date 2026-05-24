@@ -99,6 +99,7 @@ class MainWindow:
         self.exportPlot2Button.setStyleSheet(button_color)
         
     def setupMenuBar(self, MainWindow):
+                    """Creates and configures the menu bar with File and Help menus."""
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 1080, 22))
         MainWindow.setMenuBar(self.menubar)
