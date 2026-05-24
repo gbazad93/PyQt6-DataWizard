@@ -12,3 +12,12 @@ This initial version introduces the basics of PyQt6 by loading data from the cur
 ```bash
 python basic_data_handling.py
 ```
+
+## Dependencies
+- PyQt6
+- - pandas
+  - - matplotlib
+   
+    - ## Code Structure
+    - - `MainWindow` - Generated UI class defining widgets and layout
+      - - `ApplicationWindow` - Runtime controller that loads data and handles user interactions
