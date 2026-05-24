@@ -2,6 +2,7 @@
 Created on Sat May 25 2024
 
 @author: Bobby.Azad
+@description: V2 - Data visualization with Matplotlib charts embedded in a PyQt6 table view.
 
 """
 
