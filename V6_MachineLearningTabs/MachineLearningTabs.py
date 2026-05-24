@@ -3,6 +3,7 @@
 Created on Sun Jul 21 20:10:35 2024
 
 @author: Bobby.Azad
+@description: V6 - Multi-tab ML window with SVR, Decision Tree, Random Forest, and K-NN support.
 """
 
 import sys
