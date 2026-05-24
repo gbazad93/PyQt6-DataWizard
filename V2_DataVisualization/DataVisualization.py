@@ -105,6 +105,7 @@ class MainWindow:
 
 
 class ApplicationWindow(QtWidgets.QMainWindow):
+            """Main window controller that loads CSV data, styles the table, and generates plots."""
     def __init__(self):
         super().__init__()
         self.ui = MainWindow()
