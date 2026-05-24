@@ -15,3 +15,14 @@ To explore these features:
 1. Navigate to the example folder you are interested in.
 2. Open the Python file in your preferred IDE or editor.
 3. Execute the script to launch the PyQt6 application showcasing the enhanced UI components.
+
+4. ## How to Run
+5. ```bash
+   python MenuToolbarIntegration.py
+   ```
+
+   ## Prerequisites
+   - PyQt6
+   - - pandas
+     - - matplotlib
+       - - Icon files in the `../graphics/` folder
