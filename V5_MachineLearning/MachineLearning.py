@@ -21,6 +21,7 @@ from PyQt6.QtGui import QPixmap
 
 
 class MachineLearningWindow(QtWidgets.QMainWindow):
+        """Dedicated ML window for training and evaluating SVR models on tabular data."""
     def __init__(self):
         super().__init__()
         self.init_ui()
