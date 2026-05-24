@@ -17,6 +17,7 @@ from PyQt6.QtWidgets import QGraphicsScene, QGraphicsPixmapItem
 
 
 class MainWindow:
+        """Defines UI layout including table, chart buttons, and graph display area."""
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(1080, 848)
