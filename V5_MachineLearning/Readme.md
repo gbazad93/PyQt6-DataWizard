@@ -31,3 +31,16 @@ To explore the machine learning features:
 2. Click on the "Machine Learning" button within the main window to launch the dedicated Machine Learning Window.
 
 This modular approach allows users to interact with complex data and advanced analytics seamlessly within a user-friendly PyQt interface.
+
+## Quick Start
+```bash
+# Run the main window
+python MainWindow.py
+```
+
+## Dependencies
+- PyQt6
+- - pandas
+  - - scikit-learn
+    - - matplotlib
+      - - seaborn
